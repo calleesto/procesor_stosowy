@@ -1,0 +1,14413 @@
+=== STAN STOSU ===
+Instrukcja 0
+i: 0, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1
+i: 1, array: 1
+49
+0: 
+=== STAN STOSU ===
+Instrukcja 2
+i: 2, array: '
+39
+0: 1
+=== STAN STOSU ===
+Instrukcja 3
+i: 3, array: 2
+50
+1: 1
+0: 
+=== STAN STOSU ===
+Instrukcja 4
+i: 4, array: 5
+53
+1: 1
+0: 2
+=== STAN STOSU ===
+Instrukcja 5
+i: 5, array: ?
+63
+1: 1
+0: 52
+=== STAN STOSU ===
+Instrukcja 6
+i: 25, array: '
+39
+=== STAN STOSU ===
+Instrukcja 7
+i: 26, array: .
+46
+0: 
+=== STAN STOSU ===
+Instrukcja 8
+i: 27, array: .
+46
+0: o
+=== STAN STOSU ===
+Instrukcja 9
+i: 28, array: .
+46
+0: lo
+=== STAN STOSU ===
+Instrukcja 10
+i: 29, array: .
+46
+0: llo
+=== STAN STOSU ===
+Instrukcja 11
+i: 30, array: .
+46
+0: ello
+=== STAN STOSU ===
+Instrukcja 12
+i: 31, array: '
+39
+0: Hello
+=== STAN STOSU ===
+Instrukcja 13
+i: 32, array: 3
+51
+1: Hello
+0: 
+=== STAN STOSU ===
+Instrukcja 14
+i: 33, array: 2
+50
+1: Hello
+0: 3
+=== STAN STOSU ===
+Instrukcja 15
+i: 34, array: ]
+93
+1: Hello
+0: 23
+=== STAN STOSU ===
+Instrukcja 16
+i: 35, array: #
+35
+1: Hello
+0:  
+=== STAN STOSU ===
+Instrukcja 17
+i: 36, array: '
+39
+0: Hello 
+=== STAN STOSU ===
+Instrukcja 18
+i: 37, array: .
+46
+1: Hello 
+0: 
+=== STAN STOSU ===
+Instrukcja 19
+i: 38, array: .
+46
+1: Hello 
+0: !
+=== STAN STOSU ===
+Instrukcja 20
+i: 39, array: .
+46
+1: Hello 
+0: d!
+=== STAN STOSU ===
+Instrukcja 21
+i: 40, array: .
+46
+1: Hello 
+0: ld!
+=== STAN STOSU ===
+Instrukcja 22
+i: 41, array: .
+46
+1: Hello 
+0: rld!
+=== STAN STOSU ===
+Instrukcja 23
+i: 42, array: .
+46
+1: Hello 
+0: orld!
+=== STAN STOSU ===
+Instrukcja 24
+i: 43, array: #
+35
+1: Hello 
+0: world!
+=== STAN STOSU ===
+Instrukcja 25
+i: 44, array: '
+39
+0: Hello world!
+=== STAN STOSU ===
+Instrukcja 26
+i: 45, array: 1
+49
+1: Hello world!
+0: 
+=== STAN STOSU ===
+Instrukcja 27
+i: 46, array: 0
+48
+1: Hello world!
+0: 1
+=== STAN STOSU ===
+Instrukcja 28
+i: 47, array: ]
+93
+1: Hello world!
+0: 01
+=== STAN STOSU ===
+Instrukcja 29
+i: 48, array: #
+35
+1: Hello world!
+0: 
+
+=== STAN STOSU ===
+Instrukcja 30
+i: 49, array: ~
+126
+0: Hello world!
+
+=== STAN STOSU ===
+Instrukcja 31
+i: 50, array: ;
+59
+1: Hello world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 32
+i: 51, array: $
+36
+1: 94
+0: Hello world!
+
+=== STAN STOSU ===
+Instrukcja 33
+i: 52, array: >
+62
+2: 94
+1: ello world!
+
+0: H
+=== STAN STOSU ===
+Instrukcja 34
+i: 53, array: ;
+59
+1: 94
+0: ello world!
+
+=== STAN STOSU ===
+Instrukcja 35
+i: 54, array: '
+39
+1: ello world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 36
+i: 55, array: 1
+49
+2: ello world!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 37
+i: 56, array: @
+64
+2: ello world!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 38
+i: 57, array: ;
+59
+2: ello world!
+
+1: 94
+0: ello world!
+
+=== STAN STOSU ===
+Instrukcja 39
+i: 58, array: ?
+63
+2: ello world!
+
+1: ello world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 40
+i: 49, array: ~
+126
+0: ello world!
+
+=== STAN STOSU ===
+Instrukcja 41
+i: 50, array: ;
+59
+1: ello world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 42
+i: 51, array: $
+36
+1: 94
+0: ello world!
+
+=== STAN STOSU ===
+Instrukcja 43
+i: 52, array: >
+62
+2: 94
+1: llo world!
+
+0: e
+=== STAN STOSU ===
+Instrukcja 44
+i: 53, array: ;
+59
+1: 94
+0: llo world!
+
+=== STAN STOSU ===
+Instrukcja 45
+i: 54, array: '
+39
+1: llo world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 46
+i: 55, array: 1
+49
+2: llo world!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 47
+i: 56, array: @
+64
+2: llo world!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 48
+i: 57, array: ;
+59
+2: llo world!
+
+1: 94
+0: llo world!
+
+=== STAN STOSU ===
+Instrukcja 49
+i: 58, array: ?
+63
+2: llo world!
+
+1: llo world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 50
+i: 49, array: ~
+126
+0: llo world!
+
+=== STAN STOSU ===
+Instrukcja 51
+i: 50, array: ;
+59
+1: llo world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 52
+i: 51, array: $
+36
+1: 94
+0: llo world!
+
+=== STAN STOSU ===
+Instrukcja 53
+i: 52, array: >
+62
+2: 94
+1: lo world!
+
+0: l
+=== STAN STOSU ===
+Instrukcja 54
+i: 53, array: ;
+59
+1: 94
+0: lo world!
+
+=== STAN STOSU ===
+Instrukcja 55
+i: 54, array: '
+39
+1: lo world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 56
+i: 55, array: 1
+49
+2: lo world!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 57
+i: 56, array: @
+64
+2: lo world!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 58
+i: 57, array: ;
+59
+2: lo world!
+
+1: 94
+0: lo world!
+
+=== STAN STOSU ===
+Instrukcja 59
+i: 58, array: ?
+63
+2: lo world!
+
+1: lo world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 60
+i: 49, array: ~
+126
+0: lo world!
+
+=== STAN STOSU ===
+Instrukcja 61
+i: 50, array: ;
+59
+1: lo world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 62
+i: 51, array: $
+36
+1: 94
+0: lo world!
+
+=== STAN STOSU ===
+Instrukcja 63
+i: 52, array: >
+62
+2: 94
+1: o world!
+
+0: l
+=== STAN STOSU ===
+Instrukcja 64
+i: 53, array: ;
+59
+1: 94
+0: o world!
+
+=== STAN STOSU ===
+Instrukcja 65
+i: 54, array: '
+39
+1: o world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 66
+i: 55, array: 1
+49
+2: o world!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 67
+i: 56, array: @
+64
+2: o world!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 68
+i: 57, array: ;
+59
+2: o world!
+
+1: 94
+0: o world!
+
+=== STAN STOSU ===
+Instrukcja 69
+i: 58, array: ?
+63
+2: o world!
+
+1: o world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 70
+i: 49, array: ~
+126
+0: o world!
+
+=== STAN STOSU ===
+Instrukcja 71
+i: 50, array: ;
+59
+1: o world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 72
+i: 51, array: $
+36
+1: 94
+0: o world!
+
+=== STAN STOSU ===
+Instrukcja 73
+i: 52, array: >
+62
+2: 94
+1:  world!
+
+0: o
+=== STAN STOSU ===
+Instrukcja 74
+i: 53, array: ;
+59
+1: 94
+0:  world!
+
+=== STAN STOSU ===
+Instrukcja 75
+i: 54, array: '
+39
+1:  world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 76
+i: 55, array: 1
+49
+2:  world!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 77
+i: 56, array: @
+64
+2:  world!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 78
+i: 57, array: ;
+59
+2:  world!
+
+1: 94
+0:  world!
+
+=== STAN STOSU ===
+Instrukcja 79
+i: 58, array: ?
+63
+2:  world!
+
+1:  world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 80
+i: 49, array: ~
+126
+0:  world!
+
+=== STAN STOSU ===
+Instrukcja 81
+i: 50, array: ;
+59
+1:  world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 82
+i: 51, array: $
+36
+1: 94
+0:  world!
+
+=== STAN STOSU ===
+Instrukcja 83
+i: 52, array: >
+62
+2: 94
+1: world!
+
+0:  
+=== STAN STOSU ===
+Instrukcja 84
+i: 53, array: ;
+59
+1: 94
+0: world!
+
+=== STAN STOSU ===
+Instrukcja 85
+i: 54, array: '
+39
+1: world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 86
+i: 55, array: 1
+49
+2: world!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 87
+i: 56, array: @
+64
+2: world!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 88
+i: 57, array: ;
+59
+2: world!
+
+1: 94
+0: world!
+
+=== STAN STOSU ===
+Instrukcja 89
+i: 58, array: ?
+63
+2: world!
+
+1: world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 90
+i: 49, array: ~
+126
+0: world!
+
+=== STAN STOSU ===
+Instrukcja 91
+i: 50, array: ;
+59
+1: world!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 92
+i: 51, array: $
+36
+1: 94
+0: world!
+
+=== STAN STOSU ===
+Instrukcja 93
+i: 52, array: >
+62
+2: 94
+1: orld!
+
+0: w
+=== STAN STOSU ===
+Instrukcja 94
+i: 53, array: ;
+59
+1: 94
+0: orld!
+
+=== STAN STOSU ===
+Instrukcja 95
+i: 54, array: '
+39
+1: orld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 96
+i: 55, array: 1
+49
+2: orld!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 97
+i: 56, array: @
+64
+2: orld!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 98
+i: 57, array: ;
+59
+2: orld!
+
+1: 94
+0: orld!
+
+=== STAN STOSU ===
+Instrukcja 99
+i: 58, array: ?
+63
+2: orld!
+
+1: orld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 100
+i: 49, array: ~
+126
+0: orld!
+
+=== STAN STOSU ===
+Instrukcja 101
+i: 50, array: ;
+59
+1: orld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 102
+i: 51, array: $
+36
+1: 94
+0: orld!
+
+=== STAN STOSU ===
+Instrukcja 103
+i: 52, array: >
+62
+2: 94
+1: rld!
+
+0: o
+=== STAN STOSU ===
+Instrukcja 104
+i: 53, array: ;
+59
+1: 94
+0: rld!
+
+=== STAN STOSU ===
+Instrukcja 105
+i: 54, array: '
+39
+1: rld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 106
+i: 55, array: 1
+49
+2: rld!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 107
+i: 56, array: @
+64
+2: rld!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 108
+i: 57, array: ;
+59
+2: rld!
+
+1: 94
+0: rld!
+
+=== STAN STOSU ===
+Instrukcja 109
+i: 58, array: ?
+63
+2: rld!
+
+1: rld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 110
+i: 49, array: ~
+126
+0: rld!
+
+=== STAN STOSU ===
+Instrukcja 111
+i: 50, array: ;
+59
+1: rld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 112
+i: 51, array: $
+36
+1: 94
+0: rld!
+
+=== STAN STOSU ===
+Instrukcja 113
+i: 52, array: >
+62
+2: 94
+1: ld!
+
+0: r
+=== STAN STOSU ===
+Instrukcja 114
+i: 53, array: ;
+59
+1: 94
+0: ld!
+
+=== STAN STOSU ===
+Instrukcja 115
+i: 54, array: '
+39
+1: ld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 116
+i: 55, array: 1
+49
+2: ld!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 117
+i: 56, array: @
+64
+2: ld!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 118
+i: 57, array: ;
+59
+2: ld!
+
+1: 94
+0: ld!
+
+=== STAN STOSU ===
+Instrukcja 119
+i: 58, array: ?
+63
+2: ld!
+
+1: ld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 120
+i: 49, array: ~
+126
+0: ld!
+
+=== STAN STOSU ===
+Instrukcja 121
+i: 50, array: ;
+59
+1: ld!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 122
+i: 51, array: $
+36
+1: 94
+0: ld!
+
+=== STAN STOSU ===
+Instrukcja 123
+i: 52, array: >
+62
+2: 94
+1: d!
+
+0: l
+=== STAN STOSU ===
+Instrukcja 124
+i: 53, array: ;
+59
+1: 94
+0: d!
+
+=== STAN STOSU ===
+Instrukcja 125
+i: 54, array: '
+39
+1: d!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 126
+i: 55, array: 1
+49
+2: d!
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 127
+i: 56, array: @
+64
+2: d!
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 128
+i: 57, array: ;
+59
+2: d!
+
+1: 94
+0: d!
+
+=== STAN STOSU ===
+Instrukcja 129
+i: 58, array: ?
+63
+2: d!
+
+1: d!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 130
+i: 49, array: ~
+126
+0: d!
+
+=== STAN STOSU ===
+Instrukcja 131
+i: 50, array: ;
+59
+1: d!
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 132
+i: 51, array: $
+36
+1: 94
+0: d!
+
+=== STAN STOSU ===
+Instrukcja 133
+i: 52, array: >
+62
+2: 94
+1: !
+
+0: d
+=== STAN STOSU ===
+Instrukcja 134
+i: 53, array: ;
+59
+1: 94
+0: !
+
+=== STAN STOSU ===
+Instrukcja 135
+i: 54, array: '
+39
+1: !
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 136
+i: 55, array: 1
+49
+2: !
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 137
+i: 56, array: @
+64
+2: !
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 138
+i: 57, array: ;
+59
+2: !
+
+1: 94
+0: !
+
+=== STAN STOSU ===
+Instrukcja 139
+i: 58, array: ?
+63
+2: !
+
+1: !
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 140
+i: 49, array: ~
+126
+0: !
+
+=== STAN STOSU ===
+Instrukcja 141
+i: 50, array: ;
+59
+1: !
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 142
+i: 51, array: $
+36
+1: 94
+0: !
+
+=== STAN STOSU ===
+Instrukcja 143
+i: 52, array: >
+62
+2: 94
+1: 
+
+0: !
+=== STAN STOSU ===
+Instrukcja 144
+i: 53, array: ;
+59
+1: 94
+0: 
+
+=== STAN STOSU ===
+Instrukcja 145
+i: 54, array: '
+39
+1: 
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 146
+i: 55, array: 1
+49
+2: 
+
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 147
+i: 56, array: @
+64
+2: 
+
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 148
+i: 57, array: ;
+59
+2: 
+
+1: 94
+0: 
+
+=== STAN STOSU ===
+Instrukcja 149
+i: 58, array: ?
+63
+2: 
+
+1: 
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 150
+i: 49, array: ~
+126
+0: 
+
+=== STAN STOSU ===
+Instrukcja 151
+i: 50, array: ;
+59
+1: 
+
+0: 94
+=== STAN STOSU ===
+Instrukcja 152
+i: 51, array: $
+36
+1: 94
+0: 
+
+=== STAN STOSU ===
+Instrukcja 153
+i: 52, array: >
+62
+2: 94
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 154
+i: 53, array: ;
+59
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 155
+i: 54, array: '
+39
+1: 
+0: 94
+=== STAN STOSU ===
+Instrukcja 156
+i: 55, array: 1
+49
+2: 
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 157
+i: 56, array: @
+64
+2: 
+1: 94
+0: 1
+=== STAN STOSU ===
+Instrukcja 158
+i: 57, array: ;
+59
+2: 
+1: 94
+0: 
+=== STAN STOSU ===
+Instrukcja 159
+i: 58, array: ?
+63
+2: 
+1: 
+0: 94
+=== STAN STOSU ===
+Instrukcja 160
+i: 59, array: ,
+44
+0: 
+=== STAN STOSU ===
+Instrukcja 161
+i: 60, array: '
+39
+=== STAN STOSU ===
+Instrukcja 162
+i: 61, array: 1
+49
+0: 
+=== STAN STOSU ===
+Instrukcja 163
+i: 62, array: 2
+50
+0: 1
+=== STAN STOSU ===
+Instrukcja 164
+i: 63, array: 3
+51
+0: 21
+=== STAN STOSU ===
+Instrukcja 165
+i: 64, array: 4
+52
+0: 321
+=== STAN STOSU ===
+Instrukcja 166
+i: 65, array: 5
+53
+0: 4321
+=== STAN STOSU ===
+Instrukcja 167
+i: 66, array: 6
+54
+0: 54321
+=== STAN STOSU ===
+Instrukcja 168
+i: 67, array: 7
+55
+0: 654321
+=== STAN STOSU ===
+Instrukcja 169
+i: 68, array: 8
+56
+0: 7654321
+=== STAN STOSU ===
+Instrukcja 170
+i: 69, array: 9
+57
+0: 87654321
+=== STAN STOSU ===
+Instrukcja 171
+i: 70, array: ~
+126
+0: 987654321
+=== STAN STOSU ===
+Instrukcja 172
+i: 71, array: ;
+59
+1: 987654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 173
+i: 72, array: $
+36
+1: 07
+0: 987654321
+=== STAN STOSU ===
+Instrukcja 174
+i: 73, array: >
+62
+2: 07
+1: 87654321
+0: 9
+=== STAN STOSU ===
+Instrukcja 175
+i: 74, array: '
+39
+1: 07
+0: 87654321
+=== STAN STOSU ===
+Instrukcja 176
+i: 75, array: 3
+51
+2: 07
+1: 87654321
+0: 
+=== STAN STOSU ===
+Instrukcja 177
+i: 76, array: 2
+50
+2: 07
+1: 87654321
+0: 3
+=== STAN STOSU ===
+Instrukcja 178
+i: 77, array: ]
+93
+2: 07
+1: 87654321
+0: 23
+=== STAN STOSU ===
+Instrukcja 179
+i: 78, array: '
+39
+2: 07
+1: 87654321
+0:  
+=== STAN STOSU ===
+Instrukcja 180
+i: 79, array: s
+115
+3: 07
+2: 87654321
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 181
+i: 80, array: k
+107
+3: 07
+2: 87654321
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 182
+i: 81, array: c
+99
+3: 07
+2: 87654321
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 183
+i: 82, array: i
+105
+3: 07
+2: 87654321
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 184
+i: 83, array: t
+116
+3: 07
+2: 87654321
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 185
+i: 84, array: '
+39
+3: 07
+2: 87654321
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 186
+i: 85, array: 3
+51
+4: 07
+3: 87654321
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 187
+i: 86, array: 2
+50
+4: 07
+3: 87654321
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 188
+i: 87, array: ]
+93
+4: 07
+3: 87654321
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 189
+i: 88, array: #
+35
+4: 07
+3: 87654321
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 190
+i: 89, array: '
+39
+3: 07
+2: 87654321
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 191
+i: 90, array: t
+116
+4: 07
+3: 87654321
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 192
+i: 91, array: f
+102
+4: 07
+3: 87654321
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 193
+i: 92, array: e
+101
+4: 07
+3: 87654321
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 194
+i: 93, array: l
+108
+4: 07
+3: 87654321
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 195
+i: 94, array: '
+39
+4: 07
+3: 87654321
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 196
+i: 95, array: 1
+49
+5: 07
+4: 87654321
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 197
+i: 96, array: 0
+48
+5: 07
+4: 87654321
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 198
+i: 97, array: ]
+93
+5: 07
+4: 87654321
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 199
+i: 98, array: #
+35
+5: 07
+4: 87654321
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 200
+i: 99, array: #
+35
+4: 07
+3: 87654321
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 201
+i: 100, array: #
+35
+3: 07
+2: 87654321
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 202
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 203
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 204
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 205
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 206
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 207
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 208
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 209
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 210
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 211
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 212
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 213
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 214
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 215
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 216
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 217
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 218
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 219
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 220
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 221
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 222
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 223
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 224
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 225
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 226
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 227
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 228
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 229
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 230
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 231
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 232
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 233
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 234
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 235
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 236
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 237
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 238
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 239
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 240
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 241
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 242
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 243
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 244
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 245
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 246
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 247
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 248
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 249
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 250
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 251
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 252
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 253
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 254
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 255
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 256
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 257
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 258
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 259
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 260
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 261
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 262
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 263
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 264
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 265
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 266
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 267
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 268
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 269
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 270
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 271
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 272
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: left
+
+=== STAN STOSU ===
+Instrukcja 273
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 274
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 275
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 276
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 277
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 278
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 279
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 280
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 281
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 282
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 283
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 284
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 285
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 286
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 287
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 288
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 289
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 290
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 291
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 292
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 293
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 294
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 295
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 296
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 297
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 298
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 299
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 300
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 301
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 302
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: t
+
+=== STAN STOSU ===
+Instrukcja 303
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 304
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 305
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 306
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 307
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 308
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 309
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 310
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 311
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 312
+i: 101, array: ~
+126
+2: 07
+1: 87654321
+0: 
+
+=== STAN STOSU ===
+Instrukcja 313
+i: 102, array: ;
+59
+3: 07
+2: 87654321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 314
+i: 103, array: $
+36
+3: 07
+2: 87654321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 315
+i: 104, array: >
+62
+4: 07
+3: 87654321
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 316
+i: 105, array: ;
+59
+3: 07
+2: 87654321
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 317
+i: 106, array: '
+39
+3: 07
+2: 87654321
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 318
+i: 107, array: 1
+49
+4: 07
+3: 87654321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 319
+i: 108, array: @
+64
+4: 07
+3: 87654321
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 320
+i: 109, array: ;
+59
+4: 07
+3: 87654321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 321
+i: 110, array: ?
+63
+4: 07
+3: 87654321
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 322
+i: 111, array: ,
+44
+2: 07
+1: 87654321
+0: 
+=== STAN STOSU ===
+Instrukcja 323
+i: 112, array: ;
+59
+1: 07
+0: 87654321
+=== STAN STOSU ===
+Instrukcja 324
+i: 113, array: '
+39
+1: 87654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 325
+i: 114, array: 1
+49
+2: 87654321
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 326
+i: 115, array: @
+64
+2: 87654321
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 327
+i: 116, array: ;
+59
+2: 87654321
+1: 07
+0: 87654321
+=== STAN STOSU ===
+Instrukcja 328
+i: 117, array: ?
+63
+2: 87654321
+1: 87654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 329
+i: 70, array: ~
+126
+0: 87654321
+=== STAN STOSU ===
+Instrukcja 330
+i: 71, array: ;
+59
+1: 87654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 331
+i: 72, array: $
+36
+1: 07
+0: 87654321
+=== STAN STOSU ===
+Instrukcja 332
+i: 73, array: >
+62
+2: 07
+1: 7654321
+0: 8
+=== STAN STOSU ===
+Instrukcja 333
+i: 74, array: '
+39
+1: 07
+0: 7654321
+=== STAN STOSU ===
+Instrukcja 334
+i: 75, array: 3
+51
+2: 07
+1: 7654321
+0: 
+=== STAN STOSU ===
+Instrukcja 335
+i: 76, array: 2
+50
+2: 07
+1: 7654321
+0: 3
+=== STAN STOSU ===
+Instrukcja 336
+i: 77, array: ]
+93
+2: 07
+1: 7654321
+0: 23
+=== STAN STOSU ===
+Instrukcja 337
+i: 78, array: '
+39
+2: 07
+1: 7654321
+0:  
+=== STAN STOSU ===
+Instrukcja 338
+i: 79, array: s
+115
+3: 07
+2: 7654321
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 339
+i: 80, array: k
+107
+3: 07
+2: 7654321
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 340
+i: 81, array: c
+99
+3: 07
+2: 7654321
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 341
+i: 82, array: i
+105
+3: 07
+2: 7654321
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 342
+i: 83, array: t
+116
+3: 07
+2: 7654321
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 343
+i: 84, array: '
+39
+3: 07
+2: 7654321
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 344
+i: 85, array: 3
+51
+4: 07
+3: 7654321
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 345
+i: 86, array: 2
+50
+4: 07
+3: 7654321
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 346
+i: 87, array: ]
+93
+4: 07
+3: 7654321
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 347
+i: 88, array: #
+35
+4: 07
+3: 7654321
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 348
+i: 89, array: '
+39
+3: 07
+2: 7654321
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 349
+i: 90, array: t
+116
+4: 07
+3: 7654321
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 350
+i: 91, array: f
+102
+4: 07
+3: 7654321
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 351
+i: 92, array: e
+101
+4: 07
+3: 7654321
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 352
+i: 93, array: l
+108
+4: 07
+3: 7654321
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 353
+i: 94, array: '
+39
+4: 07
+3: 7654321
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 354
+i: 95, array: 1
+49
+5: 07
+4: 7654321
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 355
+i: 96, array: 0
+48
+5: 07
+4: 7654321
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 356
+i: 97, array: ]
+93
+5: 07
+4: 7654321
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 357
+i: 98, array: #
+35
+5: 07
+4: 7654321
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 358
+i: 99, array: #
+35
+4: 07
+3: 7654321
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 359
+i: 100, array: #
+35
+3: 07
+2: 7654321
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 360
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 361
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 362
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 363
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 364
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 365
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 366
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 367
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 368
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 369
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 370
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 371
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 372
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 373
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 374
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 375
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 376
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 377
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 378
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 379
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 380
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 381
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 382
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 383
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 384
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 385
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 386
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 387
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 388
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 389
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 390
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 391
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 392
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 393
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 394
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 395
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 396
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 397
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 398
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 399
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 400
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 401
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 402
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 403
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 404
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 405
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 406
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 407
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 408
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 409
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 410
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 411
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 412
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 413
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 414
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 415
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 416
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 417
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 418
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 419
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 420
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 421
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 422
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 423
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 424
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 425
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 426
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 427
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 428
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 429
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 430
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: left
+
+=== STAN STOSU ===
+Instrukcja 431
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 432
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 433
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 434
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 435
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 436
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 437
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 438
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 439
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 440
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 441
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 442
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 443
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 444
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 445
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 446
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 447
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 448
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 449
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 450
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 451
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 452
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 453
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 454
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 455
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 456
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 457
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 458
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 459
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 460
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: t
+
+=== STAN STOSU ===
+Instrukcja 461
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 462
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 463
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 464
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 465
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 466
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 467
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 468
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 469
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 470
+i: 101, array: ~
+126
+2: 07
+1: 7654321
+0: 
+
+=== STAN STOSU ===
+Instrukcja 471
+i: 102, array: ;
+59
+3: 07
+2: 7654321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 472
+i: 103, array: $
+36
+3: 07
+2: 7654321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 473
+i: 104, array: >
+62
+4: 07
+3: 7654321
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 474
+i: 105, array: ;
+59
+3: 07
+2: 7654321
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 475
+i: 106, array: '
+39
+3: 07
+2: 7654321
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 476
+i: 107, array: 1
+49
+4: 07
+3: 7654321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 477
+i: 108, array: @
+64
+4: 07
+3: 7654321
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 478
+i: 109, array: ;
+59
+4: 07
+3: 7654321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 479
+i: 110, array: ?
+63
+4: 07
+3: 7654321
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 480
+i: 111, array: ,
+44
+2: 07
+1: 7654321
+0: 
+=== STAN STOSU ===
+Instrukcja 481
+i: 112, array: ;
+59
+1: 07
+0: 7654321
+=== STAN STOSU ===
+Instrukcja 482
+i: 113, array: '
+39
+1: 7654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 483
+i: 114, array: 1
+49
+2: 7654321
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 484
+i: 115, array: @
+64
+2: 7654321
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 485
+i: 116, array: ;
+59
+2: 7654321
+1: 07
+0: 7654321
+=== STAN STOSU ===
+Instrukcja 486
+i: 117, array: ?
+63
+2: 7654321
+1: 7654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 487
+i: 70, array: ~
+126
+0: 7654321
+=== STAN STOSU ===
+Instrukcja 488
+i: 71, array: ;
+59
+1: 7654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 489
+i: 72, array: $
+36
+1: 07
+0: 7654321
+=== STAN STOSU ===
+Instrukcja 490
+i: 73, array: >
+62
+2: 07
+1: 654321
+0: 7
+=== STAN STOSU ===
+Instrukcja 491
+i: 74, array: '
+39
+1: 07
+0: 654321
+=== STAN STOSU ===
+Instrukcja 492
+i: 75, array: 3
+51
+2: 07
+1: 654321
+0: 
+=== STAN STOSU ===
+Instrukcja 493
+i: 76, array: 2
+50
+2: 07
+1: 654321
+0: 3
+=== STAN STOSU ===
+Instrukcja 494
+i: 77, array: ]
+93
+2: 07
+1: 654321
+0: 23
+=== STAN STOSU ===
+Instrukcja 495
+i: 78, array: '
+39
+2: 07
+1: 654321
+0:  
+=== STAN STOSU ===
+Instrukcja 496
+i: 79, array: s
+115
+3: 07
+2: 654321
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 497
+i: 80, array: k
+107
+3: 07
+2: 654321
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 498
+i: 81, array: c
+99
+3: 07
+2: 654321
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 499
+i: 82, array: i
+105
+3: 07
+2: 654321
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 500
+i: 83, array: t
+116
+3: 07
+2: 654321
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 501
+i: 84, array: '
+39
+3: 07
+2: 654321
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 502
+i: 85, array: 3
+51
+4: 07
+3: 654321
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 503
+i: 86, array: 2
+50
+4: 07
+3: 654321
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 504
+i: 87, array: ]
+93
+4: 07
+3: 654321
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 505
+i: 88, array: #
+35
+4: 07
+3: 654321
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 506
+i: 89, array: '
+39
+3: 07
+2: 654321
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 507
+i: 90, array: t
+116
+4: 07
+3: 654321
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 508
+i: 91, array: f
+102
+4: 07
+3: 654321
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 509
+i: 92, array: e
+101
+4: 07
+3: 654321
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 510
+i: 93, array: l
+108
+4: 07
+3: 654321
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 511
+i: 94, array: '
+39
+4: 07
+3: 654321
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 512
+i: 95, array: 1
+49
+5: 07
+4: 654321
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 513
+i: 96, array: 0
+48
+5: 07
+4: 654321
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 514
+i: 97, array: ]
+93
+5: 07
+4: 654321
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 515
+i: 98, array: #
+35
+5: 07
+4: 654321
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 516
+i: 99, array: #
+35
+4: 07
+3: 654321
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 517
+i: 100, array: #
+35
+3: 07
+2: 654321
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 518
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 519
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 520
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 521
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 522
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 523
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 524
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 525
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 526
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 527
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 528
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 529
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 530
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 531
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 532
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 533
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 534
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 535
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 536
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 537
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 538
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 539
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 540
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 541
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 542
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 543
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 544
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 545
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 546
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 547
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 548
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 549
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 550
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 551
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 552
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 553
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 554
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 555
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 556
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 557
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 558
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 559
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 560
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 561
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 562
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 563
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 564
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 565
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 566
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 567
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 568
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 569
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 570
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 571
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 572
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 573
+i: 106, array: '
+39
+3: 07
+2: 654321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 574
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 575
+i: 108, array: @
+64
+4: 07
+3: 654321
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 576
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 577
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 578
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 579
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 580
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 581
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 582
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 583
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 584
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 585
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 586
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 587
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 588
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: left
+
+=== STAN STOSU ===
+Instrukcja 589
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 590
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 591
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 592
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 593
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 594
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 595
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 596
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 597
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 598
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 599
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 600
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 601
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 602
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 603
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 604
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 605
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 606
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 607
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 608
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 609
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 610
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 611
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 612
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 613
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 614
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 615
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 616
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 617
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 618
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: t
+
+=== STAN STOSU ===
+Instrukcja 619
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 620
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 621
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 622
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 623
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 624
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 625
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 626
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 627
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 628
+i: 101, array: ~
+126
+2: 07
+1: 654321
+0: 
+
+=== STAN STOSU ===
+Instrukcja 629
+i: 102, array: ;
+59
+3: 07
+2: 654321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 630
+i: 103, array: $
+36
+3: 07
+2: 654321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 631
+i: 104, array: >
+62
+4: 07
+3: 654321
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 632
+i: 105, array: ;
+59
+3: 07
+2: 654321
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 633
+i: 106, array: '
+39
+3: 07
+2: 654321
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 634
+i: 107, array: 1
+49
+4: 07
+3: 654321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 635
+i: 108, array: @
+64
+4: 07
+3: 654321
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 636
+i: 109, array: ;
+59
+4: 07
+3: 654321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 637
+i: 110, array: ?
+63
+4: 07
+3: 654321
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 638
+i: 111, array: ,
+44
+2: 07
+1: 654321
+0: 
+=== STAN STOSU ===
+Instrukcja 639
+i: 112, array: ;
+59
+1: 07
+0: 654321
+=== STAN STOSU ===
+Instrukcja 640
+i: 113, array: '
+39
+1: 654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 641
+i: 114, array: 1
+49
+2: 654321
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 642
+i: 115, array: @
+64
+2: 654321
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 643
+i: 116, array: ;
+59
+2: 654321
+1: 07
+0: 654321
+=== STAN STOSU ===
+Instrukcja 644
+i: 117, array: ?
+63
+2: 654321
+1: 654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 645
+i: 70, array: ~
+126
+0: 654321
+=== STAN STOSU ===
+Instrukcja 646
+i: 71, array: ;
+59
+1: 654321
+0: 07
+=== STAN STOSU ===
+Instrukcja 647
+i: 72, array: $
+36
+1: 07
+0: 654321
+=== STAN STOSU ===
+Instrukcja 648
+i: 73, array: >
+62
+2: 07
+1: 54321
+0: 6
+=== STAN STOSU ===
+Instrukcja 649
+i: 74, array: '
+39
+1: 07
+0: 54321
+=== STAN STOSU ===
+Instrukcja 650
+i: 75, array: 3
+51
+2: 07
+1: 54321
+0: 
+=== STAN STOSU ===
+Instrukcja 651
+i: 76, array: 2
+50
+2: 07
+1: 54321
+0: 3
+=== STAN STOSU ===
+Instrukcja 652
+i: 77, array: ]
+93
+2: 07
+1: 54321
+0: 23
+=== STAN STOSU ===
+Instrukcja 653
+i: 78, array: '
+39
+2: 07
+1: 54321
+0:  
+=== STAN STOSU ===
+Instrukcja 654
+i: 79, array: s
+115
+3: 07
+2: 54321
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 655
+i: 80, array: k
+107
+3: 07
+2: 54321
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 656
+i: 81, array: c
+99
+3: 07
+2: 54321
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 657
+i: 82, array: i
+105
+3: 07
+2: 54321
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 658
+i: 83, array: t
+116
+3: 07
+2: 54321
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 659
+i: 84, array: '
+39
+3: 07
+2: 54321
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 660
+i: 85, array: 3
+51
+4: 07
+3: 54321
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 661
+i: 86, array: 2
+50
+4: 07
+3: 54321
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 662
+i: 87, array: ]
+93
+4: 07
+3: 54321
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 663
+i: 88, array: #
+35
+4: 07
+3: 54321
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 664
+i: 89, array: '
+39
+3: 07
+2: 54321
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 665
+i: 90, array: t
+116
+4: 07
+3: 54321
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 666
+i: 91, array: f
+102
+4: 07
+3: 54321
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 667
+i: 92, array: e
+101
+4: 07
+3: 54321
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 668
+i: 93, array: l
+108
+4: 07
+3: 54321
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 669
+i: 94, array: '
+39
+4: 07
+3: 54321
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 670
+i: 95, array: 1
+49
+5: 07
+4: 54321
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 671
+i: 96, array: 0
+48
+5: 07
+4: 54321
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 672
+i: 97, array: ]
+93
+5: 07
+4: 54321
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 673
+i: 98, array: #
+35
+5: 07
+4: 54321
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 674
+i: 99, array: #
+35
+4: 07
+3: 54321
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 675
+i: 100, array: #
+35
+3: 07
+2: 54321
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 676
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 677
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 678
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 679
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 680
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 681
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 682
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 683
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 684
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 685
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 686
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 687
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 688
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 689
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 690
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 691
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 692
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 693
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 694
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 695
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 696
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 697
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 698
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 699
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 700
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 701
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 702
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 703
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 704
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 705
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 706
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 707
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 708
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 709
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 710
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 711
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 712
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 713
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 714
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 715
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 716
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 717
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 718
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 719
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 720
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 721
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 722
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 723
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 724
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 725
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 726
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 727
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 728
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 729
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 730
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 731
+i: 106, array: '
+39
+3: 07
+2: 54321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 732
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 733
+i: 108, array: @
+64
+4: 07
+3: 54321
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 734
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 735
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 736
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 737
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 738
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 739
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 740
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 741
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 742
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 743
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 744
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 745
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 746
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: left
+
+=== STAN STOSU ===
+Instrukcja 747
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 748
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 749
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 750
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 751
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 752
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 753
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 754
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 755
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 756
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 757
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 758
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 759
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 760
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 761
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 762
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 763
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 764
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 765
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 766
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 767
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 768
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 769
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 770
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 771
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 772
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 773
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 774
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 775
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 776
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: t
+
+=== STAN STOSU ===
+Instrukcja 777
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 778
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 779
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 780
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 781
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 782
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 783
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 784
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 785
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 786
+i: 101, array: ~
+126
+2: 07
+1: 54321
+0: 
+
+=== STAN STOSU ===
+Instrukcja 787
+i: 102, array: ;
+59
+3: 07
+2: 54321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 788
+i: 103, array: $
+36
+3: 07
+2: 54321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 789
+i: 104, array: >
+62
+4: 07
+3: 54321
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 790
+i: 105, array: ;
+59
+3: 07
+2: 54321
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 791
+i: 106, array: '
+39
+3: 07
+2: 54321
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 792
+i: 107, array: 1
+49
+4: 07
+3: 54321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 793
+i: 108, array: @
+64
+4: 07
+3: 54321
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 794
+i: 109, array: ;
+59
+4: 07
+3: 54321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 795
+i: 110, array: ?
+63
+4: 07
+3: 54321
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 796
+i: 111, array: ,
+44
+2: 07
+1: 54321
+0: 
+=== STAN STOSU ===
+Instrukcja 797
+i: 112, array: ;
+59
+1: 07
+0: 54321
+=== STAN STOSU ===
+Instrukcja 798
+i: 113, array: '
+39
+1: 54321
+0: 07
+=== STAN STOSU ===
+Instrukcja 799
+i: 114, array: 1
+49
+2: 54321
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 800
+i: 115, array: @
+64
+2: 54321
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 801
+i: 116, array: ;
+59
+2: 54321
+1: 07
+0: 54321
+=== STAN STOSU ===
+Instrukcja 802
+i: 117, array: ?
+63
+2: 54321
+1: 54321
+0: 07
+=== STAN STOSU ===
+Instrukcja 803
+i: 70, array: ~
+126
+0: 54321
+=== STAN STOSU ===
+Instrukcja 804
+i: 71, array: ;
+59
+1: 54321
+0: 07
+=== STAN STOSU ===
+Instrukcja 805
+i: 72, array: $
+36
+1: 07
+0: 54321
+=== STAN STOSU ===
+Instrukcja 806
+i: 73, array: >
+62
+2: 07
+1: 4321
+0: 5
+=== STAN STOSU ===
+Instrukcja 807
+i: 74, array: '
+39
+1: 07
+0: 4321
+=== STAN STOSU ===
+Instrukcja 808
+i: 75, array: 3
+51
+2: 07
+1: 4321
+0: 
+=== STAN STOSU ===
+Instrukcja 809
+i: 76, array: 2
+50
+2: 07
+1: 4321
+0: 3
+=== STAN STOSU ===
+Instrukcja 810
+i: 77, array: ]
+93
+2: 07
+1: 4321
+0: 23
+=== STAN STOSU ===
+Instrukcja 811
+i: 78, array: '
+39
+2: 07
+1: 4321
+0:  
+=== STAN STOSU ===
+Instrukcja 812
+i: 79, array: s
+115
+3: 07
+2: 4321
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 813
+i: 80, array: k
+107
+3: 07
+2: 4321
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 814
+i: 81, array: c
+99
+3: 07
+2: 4321
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 815
+i: 82, array: i
+105
+3: 07
+2: 4321
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 816
+i: 83, array: t
+116
+3: 07
+2: 4321
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 817
+i: 84, array: '
+39
+3: 07
+2: 4321
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 818
+i: 85, array: 3
+51
+4: 07
+3: 4321
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 819
+i: 86, array: 2
+50
+4: 07
+3: 4321
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 820
+i: 87, array: ]
+93
+4: 07
+3: 4321
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 821
+i: 88, array: #
+35
+4: 07
+3: 4321
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 822
+i: 89, array: '
+39
+3: 07
+2: 4321
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 823
+i: 90, array: t
+116
+4: 07
+3: 4321
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 824
+i: 91, array: f
+102
+4: 07
+3: 4321
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 825
+i: 92, array: e
+101
+4: 07
+3: 4321
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 826
+i: 93, array: l
+108
+4: 07
+3: 4321
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 827
+i: 94, array: '
+39
+4: 07
+3: 4321
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 828
+i: 95, array: 1
+49
+5: 07
+4: 4321
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 829
+i: 96, array: 0
+48
+5: 07
+4: 4321
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 830
+i: 97, array: ]
+93
+5: 07
+4: 4321
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 831
+i: 98, array: #
+35
+5: 07
+4: 4321
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 832
+i: 99, array: #
+35
+4: 07
+3: 4321
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 833
+i: 100, array: #
+35
+3: 07
+2: 4321
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 834
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 835
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 836
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 837
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 838
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 839
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 840
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 841
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 842
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 843
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 844
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 845
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 846
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 847
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 848
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 849
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 850
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 851
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 852
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 853
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 854
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 855
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 856
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 857
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 858
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 859
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 860
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 861
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 862
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 863
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 864
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 865
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 866
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 867
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 868
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 869
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 870
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 871
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 872
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 873
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 874
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 875
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 876
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 877
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 878
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 879
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 880
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 881
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 882
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 883
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 884
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 885
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 886
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 887
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 888
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 889
+i: 106, array: '
+39
+3: 07
+2: 4321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 890
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 891
+i: 108, array: @
+64
+4: 07
+3: 4321
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 892
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 893
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 894
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 895
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 896
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 897
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 898
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 899
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 900
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 901
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 902
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 903
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 904
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: left
+
+=== STAN STOSU ===
+Instrukcja 905
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 906
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 907
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 908
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 909
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 910
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 911
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 912
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 913
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 914
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 915
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 916
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 917
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 918
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 919
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 920
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 921
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 922
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 923
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 924
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 925
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 926
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 927
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 928
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 929
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 930
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 931
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 932
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 933
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 934
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: t
+
+=== STAN STOSU ===
+Instrukcja 935
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 936
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 937
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 938
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 939
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 940
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 941
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 942
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 943
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 944
+i: 101, array: ~
+126
+2: 07
+1: 4321
+0: 
+
+=== STAN STOSU ===
+Instrukcja 945
+i: 102, array: ;
+59
+3: 07
+2: 4321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 946
+i: 103, array: $
+36
+3: 07
+2: 4321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 947
+i: 104, array: >
+62
+4: 07
+3: 4321
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 948
+i: 105, array: ;
+59
+3: 07
+2: 4321
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 949
+i: 106, array: '
+39
+3: 07
+2: 4321
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 950
+i: 107, array: 1
+49
+4: 07
+3: 4321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 951
+i: 108, array: @
+64
+4: 07
+3: 4321
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 952
+i: 109, array: ;
+59
+4: 07
+3: 4321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 953
+i: 110, array: ?
+63
+4: 07
+3: 4321
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 954
+i: 111, array: ,
+44
+2: 07
+1: 4321
+0: 
+=== STAN STOSU ===
+Instrukcja 955
+i: 112, array: ;
+59
+1: 07
+0: 4321
+=== STAN STOSU ===
+Instrukcja 956
+i: 113, array: '
+39
+1: 4321
+0: 07
+=== STAN STOSU ===
+Instrukcja 957
+i: 114, array: 1
+49
+2: 4321
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 958
+i: 115, array: @
+64
+2: 4321
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 959
+i: 116, array: ;
+59
+2: 4321
+1: 07
+0: 4321
+=== STAN STOSU ===
+Instrukcja 960
+i: 117, array: ?
+63
+2: 4321
+1: 4321
+0: 07
+=== STAN STOSU ===
+Instrukcja 961
+i: 70, array: ~
+126
+0: 4321
+=== STAN STOSU ===
+Instrukcja 962
+i: 71, array: ;
+59
+1: 4321
+0: 07
+=== STAN STOSU ===
+Instrukcja 963
+i: 72, array: $
+36
+1: 07
+0: 4321
+=== STAN STOSU ===
+Instrukcja 964
+i: 73, array: >
+62
+2: 07
+1: 321
+0: 4
+=== STAN STOSU ===
+Instrukcja 965
+i: 74, array: '
+39
+1: 07
+0: 321
+=== STAN STOSU ===
+Instrukcja 966
+i: 75, array: 3
+51
+2: 07
+1: 321
+0: 
+=== STAN STOSU ===
+Instrukcja 967
+i: 76, array: 2
+50
+2: 07
+1: 321
+0: 3
+=== STAN STOSU ===
+Instrukcja 968
+i: 77, array: ]
+93
+2: 07
+1: 321
+0: 23
+=== STAN STOSU ===
+Instrukcja 969
+i: 78, array: '
+39
+2: 07
+1: 321
+0:  
+=== STAN STOSU ===
+Instrukcja 970
+i: 79, array: s
+115
+3: 07
+2: 321
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 971
+i: 80, array: k
+107
+3: 07
+2: 321
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 972
+i: 81, array: c
+99
+3: 07
+2: 321
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 973
+i: 82, array: i
+105
+3: 07
+2: 321
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 974
+i: 83, array: t
+116
+3: 07
+2: 321
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 975
+i: 84, array: '
+39
+3: 07
+2: 321
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 976
+i: 85, array: 3
+51
+4: 07
+3: 321
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 977
+i: 86, array: 2
+50
+4: 07
+3: 321
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 978
+i: 87, array: ]
+93
+4: 07
+3: 321
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 979
+i: 88, array: #
+35
+4: 07
+3: 321
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 980
+i: 89, array: '
+39
+3: 07
+2: 321
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 981
+i: 90, array: t
+116
+4: 07
+3: 321
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 982
+i: 91, array: f
+102
+4: 07
+3: 321
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 983
+i: 92, array: e
+101
+4: 07
+3: 321
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 984
+i: 93, array: l
+108
+4: 07
+3: 321
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 985
+i: 94, array: '
+39
+4: 07
+3: 321
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 986
+i: 95, array: 1
+49
+5: 07
+4: 321
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 987
+i: 96, array: 0
+48
+5: 07
+4: 321
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 988
+i: 97, array: ]
+93
+5: 07
+4: 321
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 989
+i: 98, array: #
+35
+5: 07
+4: 321
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 990
+i: 99, array: #
+35
+4: 07
+3: 321
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 991
+i: 100, array: #
+35
+3: 07
+2: 321
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 992
+i: 101, array: ~
+126
+2: 07
+1: 321
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 993
+i: 102, array: ;
+59
+3: 07
+2: 321
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 994
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 995
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 996
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 997
+i: 106, array: '
+39
+3: 07
+2: 321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 998
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 999
+i: 108, array: @
+64
+4: 07
+3: 321
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1000
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1001
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1002
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1003
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1004
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1005
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 1006
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1007
+i: 106, array: '
+39
+3: 07
+2: 321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1008
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1009
+i: 108, array: @
+64
+4: 07
+3: 321
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1010
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1011
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1012
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1013
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1014
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1015
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 1016
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1017
+i: 106, array: '
+39
+3: 07
+2: 321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1018
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1019
+i: 108, array: @
+64
+4: 07
+3: 321
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1020
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1021
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1022
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1023
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1024
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1025
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 1026
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1027
+i: 106, array: '
+39
+3: 07
+2: 321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1028
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1029
+i: 108, array: @
+64
+4: 07
+3: 321
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1030
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1031
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1032
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1033
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1034
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1035
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 1036
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1037
+i: 106, array: '
+39
+3: 07
+2: 321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1038
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1039
+i: 108, array: @
+64
+4: 07
+3: 321
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1040
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1041
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1042
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1043
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1044
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1045
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 1046
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1047
+i: 106, array: '
+39
+3: 07
+2: 321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1048
+i: 107, array: 1
+49
+4: 07
+3: 321
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1049
+i: 108, array: @
+64
+4: 07
+3: 321
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1050
+i: 109, array: ;
+59
+4: 07
+3: 321
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1051
+i: 110, array: ?
+63
+4: 07
+3: 321
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1052
+i: 101, array: ~
+126
+2: 07
+1: 321
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1053
+i: 102, array: ;
+59
+3: 07
+2: 321
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1054
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1055
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 1056
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1057
+i: 106, array: '
+39
+3: 07
+2: 321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1058
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1059
+i: 108, array: @
+64
+4: 07
+3: 321
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1060
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1061
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1062
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1063
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1064
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1065
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 1066
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1067
+i: 106, array: '
+39
+3: 07
+2: 321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1068
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1069
+i: 108, array: @
+64
+4: 07
+3: 321
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1070
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1071
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1072
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1073
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1074
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1075
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 1076
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1077
+i: 106, array: '
+39
+3: 07
+2: 321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1078
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1079
+i: 108, array: @
+64
+4: 07
+3: 321
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1080
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1081
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1082
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1083
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1084
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1085
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 1086
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1087
+i: 106, array: '
+39
+3: 07
+2: 321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1088
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1089
+i: 108, array: @
+64
+4: 07
+3: 321
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1090
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1091
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1092
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1093
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1094
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1095
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 1096
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1097
+i: 106, array: '
+39
+3: 07
+2: 321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1098
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1099
+i: 108, array: @
+64
+4: 07
+3: 321
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1100
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1101
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1102
+i: 101, array: ~
+126
+2: 07
+1: 321
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1103
+i: 102, array: ;
+59
+3: 07
+2: 321
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1104
+i: 103, array: $
+36
+3: 07
+2: 321
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1105
+i: 104, array: >
+62
+4: 07
+3: 321
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1106
+i: 105, array: ;
+59
+3: 07
+2: 321
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1107
+i: 106, array: '
+39
+3: 07
+2: 321
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 1108
+i: 107, array: 1
+49
+4: 07
+3: 321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1109
+i: 108, array: @
+64
+4: 07
+3: 321
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1110
+i: 109, array: ;
+59
+4: 07
+3: 321
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1111
+i: 110, array: ?
+63
+4: 07
+3: 321
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 1112
+i: 111, array: ,
+44
+2: 07
+1: 321
+0: 
+=== STAN STOSU ===
+Instrukcja 1113
+i: 112, array: ;
+59
+1: 07
+0: 321
+=== STAN STOSU ===
+Instrukcja 1114
+i: 113, array: '
+39
+1: 321
+0: 07
+=== STAN STOSU ===
+Instrukcja 1115
+i: 114, array: 1
+49
+2: 321
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 1116
+i: 115, array: @
+64
+2: 321
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 1117
+i: 116, array: ;
+59
+2: 321
+1: 07
+0: 321
+=== STAN STOSU ===
+Instrukcja 1118
+i: 117, array: ?
+63
+2: 321
+1: 321
+0: 07
+=== STAN STOSU ===
+Instrukcja 1119
+i: 70, array: ~
+126
+0: 321
+=== STAN STOSU ===
+Instrukcja 1120
+i: 71, array: ;
+59
+1: 321
+0: 07
+=== STAN STOSU ===
+Instrukcja 1121
+i: 72, array: $
+36
+1: 07
+0: 321
+=== STAN STOSU ===
+Instrukcja 1122
+i: 73, array: >
+62
+2: 07
+1: 21
+0: 3
+=== STAN STOSU ===
+Instrukcja 1123
+i: 74, array: '
+39
+1: 07
+0: 21
+=== STAN STOSU ===
+Instrukcja 1124
+i: 75, array: 3
+51
+2: 07
+1: 21
+0: 
+=== STAN STOSU ===
+Instrukcja 1125
+i: 76, array: 2
+50
+2: 07
+1: 21
+0: 3
+=== STAN STOSU ===
+Instrukcja 1126
+i: 77, array: ]
+93
+2: 07
+1: 21
+0: 23
+=== STAN STOSU ===
+Instrukcja 1127
+i: 78, array: '
+39
+2: 07
+1: 21
+0:  
+=== STAN STOSU ===
+Instrukcja 1128
+i: 79, array: s
+115
+3: 07
+2: 21
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 1129
+i: 80, array: k
+107
+3: 07
+2: 21
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 1130
+i: 81, array: c
+99
+3: 07
+2: 21
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 1131
+i: 82, array: i
+105
+3: 07
+2: 21
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 1132
+i: 83, array: t
+116
+3: 07
+2: 21
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 1133
+i: 84, array: '
+39
+3: 07
+2: 21
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 1134
+i: 85, array: 3
+51
+4: 07
+3: 21
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 1135
+i: 86, array: 2
+50
+4: 07
+3: 21
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 1136
+i: 87, array: ]
+93
+4: 07
+3: 21
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 1137
+i: 88, array: #
+35
+4: 07
+3: 21
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 1138
+i: 89, array: '
+39
+3: 07
+2: 21
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 1139
+i: 90, array: t
+116
+4: 07
+3: 21
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 1140
+i: 91, array: f
+102
+4: 07
+3: 21
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 1141
+i: 92, array: e
+101
+4: 07
+3: 21
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 1142
+i: 93, array: l
+108
+4: 07
+3: 21
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 1143
+i: 94, array: '
+39
+4: 07
+3: 21
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 1144
+i: 95, array: 1
+49
+5: 07
+4: 21
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 1145
+i: 96, array: 0
+48
+5: 07
+4: 21
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 1146
+i: 97, array: ]
+93
+5: 07
+4: 21
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 1147
+i: 98, array: #
+35
+5: 07
+4: 21
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1148
+i: 99, array: #
+35
+4: 07
+3: 21
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1149
+i: 100, array: #
+35
+3: 07
+2: 21
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1150
+i: 101, array: ~
+126
+2: 07
+1: 21
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 1151
+i: 102, array: ;
+59
+3: 07
+2: 21
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1152
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 1153
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 1154
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1155
+i: 106, array: '
+39
+3: 07
+2: 21
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1156
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1157
+i: 108, array: @
+64
+4: 07
+3: 21
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1158
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1159
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1160
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1161
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1162
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1163
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 1164
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1165
+i: 106, array: '
+39
+3: 07
+2: 21
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1166
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1167
+i: 108, array: @
+64
+4: 07
+3: 21
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1168
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1169
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1170
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1171
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1172
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1173
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 1174
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1175
+i: 106, array: '
+39
+3: 07
+2: 21
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1176
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1177
+i: 108, array: @
+64
+4: 07
+3: 21
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1178
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1179
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1180
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1181
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1182
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1183
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 1184
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1185
+i: 106, array: '
+39
+3: 07
+2: 21
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1186
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1187
+i: 108, array: @
+64
+4: 07
+3: 21
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1188
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1189
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1190
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1191
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1192
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1193
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 1194
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1195
+i: 106, array: '
+39
+3: 07
+2: 21
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1196
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1197
+i: 108, array: @
+64
+4: 07
+3: 21
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1198
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1199
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1200
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1201
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1202
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1203
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 1204
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1205
+i: 106, array: '
+39
+3: 07
+2: 21
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1206
+i: 107, array: 1
+49
+4: 07
+3: 21
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1207
+i: 108, array: @
+64
+4: 07
+3: 21
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1208
+i: 109, array: ;
+59
+4: 07
+3: 21
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1209
+i: 110, array: ?
+63
+4: 07
+3: 21
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1210
+i: 101, array: ~
+126
+2: 07
+1: 21
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1211
+i: 102, array: ;
+59
+3: 07
+2: 21
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1212
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1213
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 1214
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1215
+i: 106, array: '
+39
+3: 07
+2: 21
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1216
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1217
+i: 108, array: @
+64
+4: 07
+3: 21
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1218
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1219
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1220
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1221
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1222
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1223
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 1224
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1225
+i: 106, array: '
+39
+3: 07
+2: 21
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1226
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1227
+i: 108, array: @
+64
+4: 07
+3: 21
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1228
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1229
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1230
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1231
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1232
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1233
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 1234
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1235
+i: 106, array: '
+39
+3: 07
+2: 21
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1236
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1237
+i: 108, array: @
+64
+4: 07
+3: 21
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1238
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1239
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1240
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1241
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1242
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1243
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 1244
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1245
+i: 106, array: '
+39
+3: 07
+2: 21
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1246
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1247
+i: 108, array: @
+64
+4: 07
+3: 21
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1248
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1249
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1250
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1251
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1252
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1253
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 1254
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1255
+i: 106, array: '
+39
+3: 07
+2: 21
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1256
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1257
+i: 108, array: @
+64
+4: 07
+3: 21
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1258
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1259
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1260
+i: 101, array: ~
+126
+2: 07
+1: 21
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1261
+i: 102, array: ;
+59
+3: 07
+2: 21
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1262
+i: 103, array: $
+36
+3: 07
+2: 21
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1263
+i: 104, array: >
+62
+4: 07
+3: 21
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1264
+i: 105, array: ;
+59
+3: 07
+2: 21
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1265
+i: 106, array: '
+39
+3: 07
+2: 21
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 1266
+i: 107, array: 1
+49
+4: 07
+3: 21
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1267
+i: 108, array: @
+64
+4: 07
+3: 21
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1268
+i: 109, array: ;
+59
+4: 07
+3: 21
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1269
+i: 110, array: ?
+63
+4: 07
+3: 21
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 1270
+i: 111, array: ,
+44
+2: 07
+1: 21
+0: 
+=== STAN STOSU ===
+Instrukcja 1271
+i: 112, array: ;
+59
+1: 07
+0: 21
+=== STAN STOSU ===
+Instrukcja 1272
+i: 113, array: '
+39
+1: 21
+0: 07
+=== STAN STOSU ===
+Instrukcja 1273
+i: 114, array: 1
+49
+2: 21
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 1274
+i: 115, array: @
+64
+2: 21
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 1275
+i: 116, array: ;
+59
+2: 21
+1: 07
+0: 21
+=== STAN STOSU ===
+Instrukcja 1276
+i: 117, array: ?
+63
+2: 21
+1: 21
+0: 07
+=== STAN STOSU ===
+Instrukcja 1277
+i: 70, array: ~
+126
+0: 21
+=== STAN STOSU ===
+Instrukcja 1278
+i: 71, array: ;
+59
+1: 21
+0: 07
+=== STAN STOSU ===
+Instrukcja 1279
+i: 72, array: $
+36
+1: 07
+0: 21
+=== STAN STOSU ===
+Instrukcja 1280
+i: 73, array: >
+62
+2: 07
+1: 1
+0: 2
+=== STAN STOSU ===
+Instrukcja 1281
+i: 74, array: '
+39
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 1282
+i: 75, array: 3
+51
+2: 07
+1: 1
+0: 
+=== STAN STOSU ===
+Instrukcja 1283
+i: 76, array: 2
+50
+2: 07
+1: 1
+0: 3
+=== STAN STOSU ===
+Instrukcja 1284
+i: 77, array: ]
+93
+2: 07
+1: 1
+0: 23
+=== STAN STOSU ===
+Instrukcja 1285
+i: 78, array: '
+39
+2: 07
+1: 1
+0:  
+=== STAN STOSU ===
+Instrukcja 1286
+i: 79, array: s
+115
+3: 07
+2: 1
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 1287
+i: 80, array: k
+107
+3: 07
+2: 1
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 1288
+i: 81, array: c
+99
+3: 07
+2: 1
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 1289
+i: 82, array: i
+105
+3: 07
+2: 1
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 1290
+i: 83, array: t
+116
+3: 07
+2: 1
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 1291
+i: 84, array: '
+39
+3: 07
+2: 1
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 1292
+i: 85, array: 3
+51
+4: 07
+3: 1
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 1293
+i: 86, array: 2
+50
+4: 07
+3: 1
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 1294
+i: 87, array: ]
+93
+4: 07
+3: 1
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 1295
+i: 88, array: #
+35
+4: 07
+3: 1
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 1296
+i: 89, array: '
+39
+3: 07
+2: 1
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 1297
+i: 90, array: t
+116
+4: 07
+3: 1
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 1298
+i: 91, array: f
+102
+4: 07
+3: 1
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 1299
+i: 92, array: e
+101
+4: 07
+3: 1
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 1300
+i: 93, array: l
+108
+4: 07
+3: 1
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 1301
+i: 94, array: '
+39
+4: 07
+3: 1
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 1302
+i: 95, array: 1
+49
+5: 07
+4: 1
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 1303
+i: 96, array: 0
+48
+5: 07
+4: 1
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 1304
+i: 97, array: ]
+93
+5: 07
+4: 1
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 1305
+i: 98, array: #
+35
+5: 07
+4: 1
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1306
+i: 99, array: #
+35
+4: 07
+3: 1
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1307
+i: 100, array: #
+35
+3: 07
+2: 1
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1308
+i: 101, array: ~
+126
+2: 07
+1: 1
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 1309
+i: 102, array: ;
+59
+3: 07
+2: 1
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1310
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 1311
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 1312
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1313
+i: 106, array: '
+39
+3: 07
+2: 1
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1314
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1315
+i: 108, array: @
+64
+4: 07
+3: 1
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1316
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1317
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1318
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1319
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1320
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1321
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 1322
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1323
+i: 106, array: '
+39
+3: 07
+2: 1
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1324
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1325
+i: 108, array: @
+64
+4: 07
+3: 1
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1326
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1327
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1328
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1329
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1330
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1331
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 1332
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1333
+i: 106, array: '
+39
+3: 07
+2: 1
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1334
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1335
+i: 108, array: @
+64
+4: 07
+3: 1
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1336
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1337
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1338
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1339
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1340
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1341
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 1342
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1343
+i: 106, array: '
+39
+3: 07
+2: 1
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1344
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1345
+i: 108, array: @
+64
+4: 07
+3: 1
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1346
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1347
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1348
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1349
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1350
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1351
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 1352
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1353
+i: 106, array: '
+39
+3: 07
+2: 1
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1354
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1355
+i: 108, array: @
+64
+4: 07
+3: 1
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1356
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1357
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1358
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1359
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1360
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1361
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 1362
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1363
+i: 106, array: '
+39
+3: 07
+2: 1
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1364
+i: 107, array: 1
+49
+4: 07
+3: 1
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1365
+i: 108, array: @
+64
+4: 07
+3: 1
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1366
+i: 109, array: ;
+59
+4: 07
+3: 1
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1367
+i: 110, array: ?
+63
+4: 07
+3: 1
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1368
+i: 101, array: ~
+126
+2: 07
+1: 1
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1369
+i: 102, array: ;
+59
+3: 07
+2: 1
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1370
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1371
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 1372
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1373
+i: 106, array: '
+39
+3: 07
+2: 1
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1374
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1375
+i: 108, array: @
+64
+4: 07
+3: 1
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1376
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1377
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1378
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1379
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1380
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1381
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 1382
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1383
+i: 106, array: '
+39
+3: 07
+2: 1
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1384
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1385
+i: 108, array: @
+64
+4: 07
+3: 1
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1386
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1387
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1388
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1389
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1390
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1391
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 1392
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1393
+i: 106, array: '
+39
+3: 07
+2: 1
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1394
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1395
+i: 108, array: @
+64
+4: 07
+3: 1
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1396
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1397
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1398
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1399
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1400
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1401
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 1402
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1403
+i: 106, array: '
+39
+3: 07
+2: 1
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1404
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1405
+i: 108, array: @
+64
+4: 07
+3: 1
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1406
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1407
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1408
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1409
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1410
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1411
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 1412
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1413
+i: 106, array: '
+39
+3: 07
+2: 1
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1414
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1415
+i: 108, array: @
+64
+4: 07
+3: 1
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1416
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1417
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1418
+i: 101, array: ~
+126
+2: 07
+1: 1
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1419
+i: 102, array: ;
+59
+3: 07
+2: 1
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1420
+i: 103, array: $
+36
+3: 07
+2: 1
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1421
+i: 104, array: >
+62
+4: 07
+3: 1
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1422
+i: 105, array: ;
+59
+3: 07
+2: 1
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1423
+i: 106, array: '
+39
+3: 07
+2: 1
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 1424
+i: 107, array: 1
+49
+4: 07
+3: 1
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1425
+i: 108, array: @
+64
+4: 07
+3: 1
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1426
+i: 109, array: ;
+59
+4: 07
+3: 1
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1427
+i: 110, array: ?
+63
+4: 07
+3: 1
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 1428
+i: 111, array: ,
+44
+2: 07
+1: 1
+0: 
+=== STAN STOSU ===
+Instrukcja 1429
+i: 112, array: ;
+59
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 1430
+i: 113, array: '
+39
+1: 1
+0: 07
+=== STAN STOSU ===
+Instrukcja 1431
+i: 114, array: 1
+49
+2: 1
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 1432
+i: 115, array: @
+64
+2: 1
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 1433
+i: 116, array: ;
+59
+2: 1
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 1434
+i: 117, array: ?
+63
+2: 1
+1: 1
+0: 07
+=== STAN STOSU ===
+Instrukcja 1435
+i: 70, array: ~
+126
+0: 1
+=== STAN STOSU ===
+Instrukcja 1436
+i: 71, array: ;
+59
+1: 1
+0: 07
+=== STAN STOSU ===
+Instrukcja 1437
+i: 72, array: $
+36
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 1438
+i: 73, array: >
+62
+2: 07
+1: 
+0: 1
+=== STAN STOSU ===
+Instrukcja 1439
+i: 74, array: '
+39
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 1440
+i: 75, array: 3
+51
+2: 07
+1: 
+0: 
+=== STAN STOSU ===
+Instrukcja 1441
+i: 76, array: 2
+50
+2: 07
+1: 
+0: 3
+=== STAN STOSU ===
+Instrukcja 1442
+i: 77, array: ]
+93
+2: 07
+1: 
+0: 23
+=== STAN STOSU ===
+Instrukcja 1443
+i: 78, array: '
+39
+2: 07
+1: 
+0:  
+=== STAN STOSU ===
+Instrukcja 1444
+i: 79, array: s
+115
+3: 07
+2: 
+1:  
+0: 
+=== STAN STOSU ===
+Instrukcja 1445
+i: 80, array: k
+107
+3: 07
+2: 
+1:  
+0: s
+=== STAN STOSU ===
+Instrukcja 1446
+i: 81, array: c
+99
+3: 07
+2: 
+1:  
+0: ks
+=== STAN STOSU ===
+Instrukcja 1447
+i: 82, array: i
+105
+3: 07
+2: 
+1:  
+0: cks
+=== STAN STOSU ===
+Instrukcja 1448
+i: 83, array: t
+116
+3: 07
+2: 
+1:  
+0: icks
+=== STAN STOSU ===
+Instrukcja 1449
+i: 84, array: '
+39
+3: 07
+2: 
+1:  
+0: ticks
+=== STAN STOSU ===
+Instrukcja 1450
+i: 85, array: 3
+51
+4: 07
+3: 
+2:  
+1: ticks
+0: 
+=== STAN STOSU ===
+Instrukcja 1451
+i: 86, array: 2
+50
+4: 07
+3: 
+2:  
+1: ticks
+0: 3
+=== STAN STOSU ===
+Instrukcja 1452
+i: 87, array: ]
+93
+4: 07
+3: 
+2:  
+1: ticks
+0: 23
+=== STAN STOSU ===
+Instrukcja 1453
+i: 88, array: #
+35
+4: 07
+3: 
+2:  
+1: ticks
+0:  
+=== STAN STOSU ===
+Instrukcja 1454
+i: 89, array: '
+39
+3: 07
+2: 
+1:  
+0: ticks 
+=== STAN STOSU ===
+Instrukcja 1455
+i: 90, array: t
+116
+4: 07
+3: 
+2:  
+1: ticks 
+0: 
+=== STAN STOSU ===
+Instrukcja 1456
+i: 91, array: f
+102
+4: 07
+3: 
+2:  
+1: ticks 
+0: t
+=== STAN STOSU ===
+Instrukcja 1457
+i: 92, array: e
+101
+4: 07
+3: 
+2:  
+1: ticks 
+0: ft
+=== STAN STOSU ===
+Instrukcja 1458
+i: 93, array: l
+108
+4: 07
+3: 
+2:  
+1: ticks 
+0: eft
+=== STAN STOSU ===
+Instrukcja 1459
+i: 94, array: '
+39
+4: 07
+3: 
+2:  
+1: ticks 
+0: left
+=== STAN STOSU ===
+Instrukcja 1460
+i: 95, array: 1
+49
+5: 07
+4: 
+3:  
+2: ticks 
+1: left
+0: 
+=== STAN STOSU ===
+Instrukcja 1461
+i: 96, array: 0
+48
+5: 07
+4: 
+3:  
+2: ticks 
+1: left
+0: 1
+=== STAN STOSU ===
+Instrukcja 1462
+i: 97, array: ]
+93
+5: 07
+4: 
+3:  
+2: ticks 
+1: left
+0: 01
+=== STAN STOSU ===
+Instrukcja 1463
+i: 98, array: #
+35
+5: 07
+4: 
+3:  
+2: ticks 
+1: left
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1464
+i: 99, array: #
+35
+4: 07
+3: 
+2:  
+1: ticks 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1465
+i: 100, array: #
+35
+3: 07
+2: 
+1:  
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1466
+i: 101, array: ~
+126
+2: 07
+1: 
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 1467
+i: 102, array: ;
+59
+3: 07
+2: 
+1:  ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1468
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0:  ticks left
+
+=== STAN STOSU ===
+Instrukcja 1469
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: ticks left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 1470
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1471
+i: 106, array: '
+39
+3: 07
+2: 
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1472
+i: 107, array: 1
+49
+4: 07
+3: 
+2: ticks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1473
+i: 108, array: @
+64
+4: 07
+3: 
+2: ticks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1474
+i: 109, array: ;
+59
+4: 07
+3: 
+2: ticks left
+
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1475
+i: 110, array: ?
+63
+4: 07
+3: 
+2: ticks left
+
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1476
+i: 101, array: ~
+126
+2: 07
+1: 
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1477
+i: 102, array: ;
+59
+3: 07
+2: 
+1: ticks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1478
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: ticks left
+
+=== STAN STOSU ===
+Instrukcja 1479
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: icks left
+
+0: t
+=== STAN STOSU ===
+Instrukcja 1480
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1481
+i: 106, array: '
+39
+3: 07
+2: 
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1482
+i: 107, array: 1
+49
+4: 07
+3: 
+2: icks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1483
+i: 108, array: @
+64
+4: 07
+3: 
+2: icks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1484
+i: 109, array: ;
+59
+4: 07
+3: 
+2: icks left
+
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1485
+i: 110, array: ?
+63
+4: 07
+3: 
+2: icks left
+
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1486
+i: 101, array: ~
+126
+2: 07
+1: 
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1487
+i: 102, array: ;
+59
+3: 07
+2: 
+1: icks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1488
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: icks left
+
+=== STAN STOSU ===
+Instrukcja 1489
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: cks left
+
+0: i
+=== STAN STOSU ===
+Instrukcja 1490
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1491
+i: 106, array: '
+39
+3: 07
+2: 
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1492
+i: 107, array: 1
+49
+4: 07
+3: 
+2: cks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1493
+i: 108, array: @
+64
+4: 07
+3: 
+2: cks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1494
+i: 109, array: ;
+59
+4: 07
+3: 
+2: cks left
+
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1495
+i: 110, array: ?
+63
+4: 07
+3: 
+2: cks left
+
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1496
+i: 101, array: ~
+126
+2: 07
+1: 
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1497
+i: 102, array: ;
+59
+3: 07
+2: 
+1: cks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1498
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: cks left
+
+=== STAN STOSU ===
+Instrukcja 1499
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: ks left
+
+0: c
+=== STAN STOSU ===
+Instrukcja 1500
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1501
+i: 106, array: '
+39
+3: 07
+2: 
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1502
+i: 107, array: 1
+49
+4: 07
+3: 
+2: ks left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1503
+i: 108, array: @
+64
+4: 07
+3: 
+2: ks left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1504
+i: 109, array: ;
+59
+4: 07
+3: 
+2: ks left
+
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1505
+i: 110, array: ?
+63
+4: 07
+3: 
+2: ks left
+
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1506
+i: 101, array: ~
+126
+2: 07
+1: 
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1507
+i: 102, array: ;
+59
+3: 07
+2: 
+1: ks left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1508
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: ks left
+
+=== STAN STOSU ===
+Instrukcja 1509
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: s left
+
+0: k
+=== STAN STOSU ===
+Instrukcja 1510
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1511
+i: 106, array: '
+39
+3: 07
+2: 
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1512
+i: 107, array: 1
+49
+4: 07
+3: 
+2: s left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1513
+i: 108, array: @
+64
+4: 07
+3: 
+2: s left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1514
+i: 109, array: ;
+59
+4: 07
+3: 
+2: s left
+
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1515
+i: 110, array: ?
+63
+4: 07
+3: 
+2: s left
+
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1516
+i: 101, array: ~
+126
+2: 07
+1: 
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1517
+i: 102, array: ;
+59
+3: 07
+2: 
+1: s left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1518
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: s left
+
+=== STAN STOSU ===
+Instrukcja 1519
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1:  left
+
+0: s
+=== STAN STOSU ===
+Instrukcja 1520
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1521
+i: 106, array: '
+39
+3: 07
+2: 
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1522
+i: 107, array: 1
+49
+4: 07
+3: 
+2:  left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1523
+i: 108, array: @
+64
+4: 07
+3: 
+2:  left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1524
+i: 109, array: ;
+59
+4: 07
+3: 
+2:  left
+
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1525
+i: 110, array: ?
+63
+4: 07
+3: 
+2:  left
+
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1526
+i: 101, array: ~
+126
+2: 07
+1: 
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1527
+i: 102, array: ;
+59
+3: 07
+2: 
+1:  left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1528
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0:  left
+
+=== STAN STOSU ===
+Instrukcja 1529
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: left
+
+0:  
+=== STAN STOSU ===
+Instrukcja 1530
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1531
+i: 106, array: '
+39
+3: 07
+2: 
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1532
+i: 107, array: 1
+49
+4: 07
+3: 
+2: left
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1533
+i: 108, array: @
+64
+4: 07
+3: 
+2: left
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1534
+i: 109, array: ;
+59
+4: 07
+3: 
+2: left
+
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1535
+i: 110, array: ?
+63
+4: 07
+3: 
+2: left
+
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1536
+i: 101, array: ~
+126
+2: 07
+1: 
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1537
+i: 102, array: ;
+59
+3: 07
+2: 
+1: left
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1538
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: left
+
+=== STAN STOSU ===
+Instrukcja 1539
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: eft
+
+0: l
+=== STAN STOSU ===
+Instrukcja 1540
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1541
+i: 106, array: '
+39
+3: 07
+2: 
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1542
+i: 107, array: 1
+49
+4: 07
+3: 
+2: eft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1543
+i: 108, array: @
+64
+4: 07
+3: 
+2: eft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1544
+i: 109, array: ;
+59
+4: 07
+3: 
+2: eft
+
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1545
+i: 110, array: ?
+63
+4: 07
+3: 
+2: eft
+
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1546
+i: 101, array: ~
+126
+2: 07
+1: 
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1547
+i: 102, array: ;
+59
+3: 07
+2: 
+1: eft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1548
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: eft
+
+=== STAN STOSU ===
+Instrukcja 1549
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: ft
+
+0: e
+=== STAN STOSU ===
+Instrukcja 1550
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1551
+i: 106, array: '
+39
+3: 07
+2: 
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1552
+i: 107, array: 1
+49
+4: 07
+3: 
+2: ft
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1553
+i: 108, array: @
+64
+4: 07
+3: 
+2: ft
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1554
+i: 109, array: ;
+59
+4: 07
+3: 
+2: ft
+
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1555
+i: 110, array: ?
+63
+4: 07
+3: 
+2: ft
+
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1556
+i: 101, array: ~
+126
+2: 07
+1: 
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1557
+i: 102, array: ;
+59
+3: 07
+2: 
+1: ft
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1558
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: ft
+
+=== STAN STOSU ===
+Instrukcja 1559
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: t
+
+0: f
+=== STAN STOSU ===
+Instrukcja 1560
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1561
+i: 106, array: '
+39
+3: 07
+2: 
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1562
+i: 107, array: 1
+49
+4: 07
+3: 
+2: t
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1563
+i: 108, array: @
+64
+4: 07
+3: 
+2: t
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1564
+i: 109, array: ;
+59
+4: 07
+3: 
+2: t
+
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1565
+i: 110, array: ?
+63
+4: 07
+3: 
+2: t
+
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1566
+i: 101, array: ~
+126
+2: 07
+1: 
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1567
+i: 102, array: ;
+59
+3: 07
+2: 
+1: t
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1568
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: t
+
+=== STAN STOSU ===
+Instrukcja 1569
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: 
+
+0: t
+=== STAN STOSU ===
+Instrukcja 1570
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1571
+i: 106, array: '
+39
+3: 07
+2: 
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1572
+i: 107, array: 1
+49
+4: 07
+3: 
+2: 
+
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1573
+i: 108, array: @
+64
+4: 07
+3: 
+2: 
+
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1574
+i: 109, array: ;
+59
+4: 07
+3: 
+2: 
+
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1575
+i: 110, array: ?
+63
+4: 07
+3: 
+2: 
+
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1576
+i: 101, array: ~
+126
+2: 07
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1577
+i: 102, array: ;
+59
+3: 07
+2: 
+1: 
+
+0: 101
+=== STAN STOSU ===
+Instrukcja 1578
+i: 103, array: $
+36
+3: 07
+2: 
+1: 101
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1579
+i: 104, array: >
+62
+4: 07
+3: 
+2: 101
+1: 
+0: 
+
+=== STAN STOSU ===
+Instrukcja 1580
+i: 105, array: ;
+59
+3: 07
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1581
+i: 106, array: '
+39
+3: 07
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 1582
+i: 107, array: 1
+49
+4: 07
+3: 
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1583
+i: 108, array: @
+64
+4: 07
+3: 
+2: 
+1: 101
+0: 1
+=== STAN STOSU ===
+Instrukcja 1584
+i: 109, array: ;
+59
+4: 07
+3: 
+2: 
+1: 101
+0: 
+=== STAN STOSU ===
+Instrukcja 1585
+i: 110, array: ?
+63
+4: 07
+3: 
+2: 
+1: 
+0: 101
+=== STAN STOSU ===
+Instrukcja 1586
+i: 111, array: ,
+44
+2: 07
+1: 
+0: 
+=== STAN STOSU ===
+Instrukcja 1587
+i: 112, array: ;
+59
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 1588
+i: 113, array: '
+39
+1: 
+0: 07
+=== STAN STOSU ===
+Instrukcja 1589
+i: 114, array: 1
+49
+2: 
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 1590
+i: 115, array: @
+64
+2: 
+1: 07
+0: 1
+=== STAN STOSU ===
+Instrukcja 1591
+i: 116, array: ;
+59
+2: 
+1: 07
+0: 
+=== STAN STOSU ===
+Instrukcja 1592
+i: 117, array: ?
+63
+2: 
+1: 
+0: 07
+=== STAN STOSU ===
+Instrukcja 1593
+i: 118, array: ,
+44
+0: 
+=== STAN STOSU ===
+Instrukcja 1594
+i: 119, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1595
+i: 120, array: e
+101
+0: 
+=== STAN STOSU ===
+Instrukcja 1596
+i: 121, array: >
+62
+0: e
+=== STAN STOSU ===
+Instrukcja 1597
+i: 122, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1598
+i: 123, array: n
+110
+0: 
+=== STAN STOSU ===
+Instrukcja 1599
+i: 124, array: >
+62
+0: n
+=== STAN STOSU ===
+Instrukcja 1600
+i: 125, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1601
+i: 126, array: d
+100
+0: 
+=== STAN STOSU ===
+Instrukcja 1602
+i: 127, array: >
+62
+0: d
+=== STAN STOSU ===
+Instrukcja 1603
+i: 128, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1604
+i: 129, array: 3
+51
+0: 
+=== STAN STOSU ===
+Instrukcja 1605
+i: 130, array: 2
+50
+0: 3
+=== STAN STOSU ===
+Instrukcja 1606
+i: 131, array: ]
+93
+0: 23
+=== STAN STOSU ===
+Instrukcja 1607
+i: 132, array: >
+62
+0:  
+=== STAN STOSU ===
+Instrukcja 1608
+i: 133, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1609
+i: 134, array: o
+111
+0: 
+=== STAN STOSU ===
+Instrukcja 1610
+i: 135, array: >
+62
+0: o
+=== STAN STOSU ===
+Instrukcja 1611
+i: 136, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1612
+i: 137, array: f
+102
+0: 
+=== STAN STOSU ===
+Instrukcja 1613
+i: 138, array: >
+62
+0: f
+=== STAN STOSU ===
+Instrukcja 1614
+i: 139, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1615
+i: 140, array: 3
+51
+0: 
+=== STAN STOSU ===
+Instrukcja 1616
+i: 141, array: 2
+50
+0: 3
+=== STAN STOSU ===
+Instrukcja 1617
+i: 142, array: ]
+93
+0: 23
+=== STAN STOSU ===
+Instrukcja 1618
+i: 143, array: >
+62
+0:  
+=== STAN STOSU ===
+Instrukcja 1619
+i: 144, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1620
+i: 145, array: s
+115
+0: 
+=== STAN STOSU ===
+Instrukcja 1621
+i: 146, array: >
+62
+0: s
+=== STAN STOSU ===
+Instrukcja 1622
+i: 147, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1623
+i: 148, array: t
+116
+0: 
+=== STAN STOSU ===
+Instrukcja 1624
+i: 149, array: >
+62
+0: t
+=== STAN STOSU ===
+Instrukcja 1625
+i: 150, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1626
+i: 151, array: o
+111
+0: 
+=== STAN STOSU ===
+Instrukcja 1627
+i: 152, array: >
+62
+0: o
+=== STAN STOSU ===
+Instrukcja 1628
+i: 153, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1629
+i: 154, array: r
+114
+0: 
+=== STAN STOSU ===
+Instrukcja 1630
+i: 155, array: >
+62
+0: r
+=== STAN STOSU ===
+Instrukcja 1631
+i: 156, array: '
+39
+=== STAN STOSU ===
+Instrukcja 1632
+i: 157, array: y
+121
+0: 
+=== STAN STOSU ===
+Instrukcja 1633
+i: 158, array: >
+62
+0: y
+=== STAN STOSU ===
+Instrukcja 1634
+i: 159, array: 
+
+10
