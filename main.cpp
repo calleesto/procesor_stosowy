@@ -18,8 +18,16 @@ void addDataToLastNode(Node* node, char ch) {
     node->data = ch + node->data;
 }
 
-void appendNode(Node* node) {
-    if (node->data != "") {
+void appendNode(Node*& node) {
+    if (node == nullptr) {
+        node = new Node;
+        node->data = "";
+        node->next = nullptr;
+        node->index = 0;
+        return;
+    }
+
+    if (!node->data.empty()) {
         Node* newNode = new Node;
         newNode->data = "";
         newNode->next = nullptr;
@@ -27,12 +35,23 @@ void appendNode(Node* node) {
     }
 }
 
-Node* findLastNode(Node* node, int i) {
+Node* findLastNode(Node* node) {
     if (node == nullptr || node->next == nullptr) {
-        node->index = i;
         return node;
     }
-    return findLastNode(node->next, ++i);
+    return findLastNode(node->next);
+}
+
+void updateIndex(Node* node, int i) {
+    if (node == nullptr) return;
+
+    if (node != nullptr) {
+        node->index = i++;
+    } else {
+        node->index = -1;
+    }
+
+    updateIndex(node->next, i);
 }
 
 void removeNode(Node*& node, Node* target) {
@@ -40,8 +59,7 @@ void removeNode(Node*& node, Node* target) {
 
     if (node == target) {
         Node* temp = node;
-        delete node;
-        temp = node->next;
+        node = node->next;
         temp->next = nullptr;
         delete temp;
         return;
@@ -58,18 +76,26 @@ void removeNode(Node*& node, Node* target) {
     removeNode(node->next, target);
 }
 
-void manageInput(Node* node, char ch) {
-    Node* currentNode = findLastNode(node, 0);
+void manageInput(Node*& node, char ch) {
+    if (node == nullptr) {
+        appendNode(node); // Create head
+        updateIndex(node, 0);
+    }
+
+    Node* currentLast = findLastNode(node);
+
     switch (ch) {
         case '\'':
-            appendNode(currentNode);
-            break;
+            appendNode(currentLast);
+            updateIndex(node, 0);
+        break;
         case ',':
-            removeNode(node, currentNode);
-            break;
+            removeNode(node, currentLast);
+        updateIndex(node, 0);
+        break;
         default:
-            addDataToLastNode(currentNode, ch);
-            break;
+            addDataToLastNode(currentLast, ch);
+        break;
     }
 }
 
@@ -83,17 +109,14 @@ int main() {
     string input;
     getline(cin, input);
 
-    if (!input.empty() && input[0] == '\'') {
-        Node* head = new Node;
-        head->data = "";
-        head->next = nullptr;
-        head->index = 0;
-        for (char ch : input) {
-            manageInput(head, ch);
-        }
-        printStack(head);
-        cleanup(head);
+    Node* head = nullptr;
+
+    for (char ch : input) {
+        manageInput(head, ch);
     }
+
+    printStack(head);
+    cleanup(head);
 
     return 0;
 }
