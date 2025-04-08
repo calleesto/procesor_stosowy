@@ -1,6 +1,7 @@
 #include <iostream>
-#include <string>
 using namespace std;
+
+#define MAX_INPUT 20000
 
 struct Node {
     string data;
@@ -27,7 +28,7 @@ void appendNode(Node*& node) {
         return;
     }
 
-    if (!node->data.empty()) {
+    if (node->data != "") {
         Node* newNode = new Node;
         newNode->data = "";
         newNode->next = nullptr;
@@ -35,23 +36,12 @@ void appendNode(Node*& node) {
     }
 }
 
-Node* findLastNode(Node* node) {
+Node* findLastNode(Node* node, int i) {
     if (node == nullptr || node->next == nullptr) {
+        node->index = i;
         return node;
     }
-    return findLastNode(node->next);
-}
-
-void updateIndex(Node* node, int i) {
-    if (node == nullptr) return;
-
-    if (node != nullptr) {
-        node->index = i++;
-    } else {
-        node->index = -1;
-    }
-
-    updateIndex(node->next, i);
+    return findLastNode(node->next, ++i);
 }
 
 void removeNode(Node*& node, Node* target) {
@@ -77,21 +67,20 @@ void removeNode(Node*& node, Node* target) {
 }
 
 void manageInput(Node*& node, char ch) {
-    if (node == nullptr) {
-        appendNode(node); // Create head
-        updateIndex(node, 0);
+    if (node == nullptr && ch == '\'') {
+        appendNode(node);
+        return;
     }
 
-    Node* currentLast = findLastNode(node);
+    if (node == nullptr) return; // Ignore other chars before first apostrophe
 
+    Node* currentLast = findLastNode(node, 0);
     switch (ch) {
         case '\'':
             appendNode(currentLast);
-            updateIndex(node, 0);
         break;
         case ',':
             removeNode(node, currentLast);
-        updateIndex(node, 0);
         break;
         default:
             addDataToLastNode(currentLast, ch);
@@ -106,13 +95,14 @@ void cleanup(Node* node) {
 }
 
 int main() {
-    string input;
-    getline(cin, input);
+    char input[MAX_INPUT];
+
+    cin.getline(input, MAX_INPUT);
 
     Node* head = nullptr;
 
-    for (char ch : input) {
-        manageInput(head, ch);
+    for (int i = 0; input[i] != '\0'; ++i) {
+        manageInput(head, input[i]);
     }
 
     printStack(head);
